@@ -1,7 +1,7 @@
-- 👋 Hi, I’m storx_
-- 👀 I like trains
-- 🌱 I’m a highschool student studying computers 
-- 📫 How to reach me:
+1. 👋 Hi, I’m storx_
+2. 👀 I like trains
+3. 🌱 I’m a highschool student studying computers 
+4. 📫 How to reach me:
           * REDDIT
           * DSC (sadly inactive)
           * EMAIL: dxxlswrd@gmail.com
