@@ -15,6 +15,7 @@
 - no
 - washing half my life away on osu
 - bok 
+- actually install the OS that's the hardest to install (ofc its Gentoo)
 
 <!---
 dxxl/dxxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
